@@ -1,0 +1,7 @@
+C:\Users\rujan\source\repos\LAB1\LAB 2\bin\Debug\LAB 2.exe.config
+C:\Users\rujan\source\repos\LAB1\LAB 2\bin\Debug\LAB 2.exe
+C:\Users\rujan\source\repos\LAB1\LAB 2\bin\Debug\LAB 2.pdb
+C:\Users\rujan\source\repos\LAB1\LAB 2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+C:\Users\rujan\source\repos\LAB1\LAB 2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\Users\rujan\source\repos\LAB1\LAB 2\obj\Debug\LAB 2.exe
+C:\Users\rujan\source\repos\LAB1\LAB 2\obj\Debug\LAB 2.pdb
